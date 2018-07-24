@@ -327,5 +327,5 @@ If you need some other way in which the map is published (e.g. publish the whole
 **Tracking immediately diverges / I keep getting "TRACKING LOST for frame 34 (0.00% good Points, which is -nan% of available points, DIVERGED)!"**
 - double-check your camera calibration.
 - try more translational movement and less roational movement
-
+- This line is my owe change.
 
